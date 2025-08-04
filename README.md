@@ -17,9 +17,9 @@ git config user.email "seuemail@exemplo.com"
 
 ### Fluxo de Trabalho com Git
 #### Branches principais
-```main:``` versão de produção
-```develop:``` branch de desenvolvimento
-```feature/nome-da-feature:``` para desenvolvimento de funcionalidades específicas
+```main:``` versão de produção  
+```develop:``` branch de desenvolvimento  
+```feature/nome-da-feature:``` para desenvolvimento de funcionalidades específicas  
 
 ### Criar uma nova funcionalidade
 Certifique-se de estar atualizado com a develop:
@@ -49,8 +49,7 @@ Envie para a branch develop
 Descreva o que foi feito, qual Sprint e a tarefa
 
 ### Organização do Projeto
-O projeto é dividido por Sprints, e você pode acompanhar o progresso no board abaixo:
-
+O projeto é dividido por Sprints, e você pode acompanhar o progresso no board abaixo:  
 [Acessar o Board de Sprints](https://trello.com/b/ysGZCmQy/gerenciador-de-tarefas)
 
 
